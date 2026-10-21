@@ -1,0 +1,9 @@
+flask
+pandas
+numpy
+requests
+beautifulsoup4
+lxml
+matplotlib
+scikit-learn
+rapidfuzz

@@ -1,0 +1,5 @@
+﻿Model,R2_log,MAPE_%,Median_APE_%
+Dummy (doan trung vi),-0.043,60.0,49.9
+Ridge,0.857,21.4,18.0
+Random Forest,0.872,20.0,14.4
+Gradient Boosting,0.889,18.5,14.0

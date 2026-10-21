@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Phân tích điện thoại thông minh</title>
+  <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+  <header>
+    <h1>Phân tích điện thoại thông minh</h1>
+    <p id="subtitle">Dữ liệu GSMArena · giá CellphoneS · mô hình học máy</p>
+  </header>
+  <nav class="tabs">
+    <button data-tab="data" class="active">Dữ liệu</button>
+    <button data-tab="stats">Thống kê</button>
+    <button data-tab="clusters">Phân cụm</button>
+    <button data-tab="radar">So sánh</button>
+    <button data-tab="price">Dự đoán giá</button>
+  </nav>
+  <p id="msg" class="msg" hidden></p>
+
+  <section id="tab-data" class="tab active">
+    <div class="bar">
+      <input id="q" type="search" placeholder="Tìm theo tên máy…">
+      <select id="brandFilter"><option value="">Tất cả hãng</option></select>
+      <span id="count" class="muted"></span>
+    </div>
+    <div class="scroll"><table id="phoneTable"></table></div>
+  </section>
+
+  <section id="tab-stats" class="tab">
+    <div class="bar"><label>Thống kê: <select id="attrSelect"></select></label></div>
+    <div id="statsBody"></div>
+  </section>
+
+  <section id="tab-clusters" class="tab">
+    <div id="clusterBody"></div>
+  </section>
+
+  <section id="tab-radar" class="tab">
+    <div class="bar">
+      <input id="p1" list="names" placeholder="Máy thứ nhất (vd: iPhone 17 Pro)">
+      <input id="p2" list="names" placeholder="Máy thứ hai (vd: Galaxy S26 Ultra)">
+      <datalist id="names"></datalist>
+      <button id="radarBtn">Vẽ radar</button>
+    </div>
+    <div id="attrChecks" class="checks"></div>
+    <div id="radarOut"></div>
+  </section>
+
+  <section id="tab-price" class="tab">
+    <p class="muted">Nhập thông số, mô hình ước lượng giá (EUR) từ dữ liệu GSMArena. Ô để trống sẽ dùng giá trị trung vị.</p>
+    <div id="priceForm" class="form"></div>
+    <div id="priceOut"></div>
+  </section>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="/static/app.js"></script>
+</body>
+</html>

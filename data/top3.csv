@@ -1,0 +1,163 @@
+﻿Attribute,Type,Rank,Name,Brand,Value
+Weight_g,Highest,1,Apple iPhone Duo,Apple,254.0
+Weight_g,Highest,2,Apple iPhone 18 Pro Max,Apple,249.0
+Weight_g,Highest,3,Xiaomi Redmi K100 Pro Max,Xiaomi,238.0
+Weight_g,Lowest,1,Apple iPhone Air,Apple,165.0
+Weight_g,Lowest,2,Apple iPhone 16e,Apple,167.0
+Weight_g,Lowest,3,Samsung Galaxy S26,Samsung,167.0
+Length_mm,Highest,1,Xiaomi Redmi 17C 4G,Xiaomi,171.9
+Length_mm,Highest,2,Xiaomi Poco C81x,Xiaomi,171.8
+Length_mm,Highest,3,Xiaomi Poco C81,Xiaomi,171.6
+Length_mm,Lowest,1,Apple iPhone Duo,Apple,117.8
+Length_mm,Lowest,2,Apple iPhone 15 Pro,Apple,146.6
+Length_mm,Lowest,3,Apple iPhone 16e,Apple,146.7
+Width_mm,Highest,1,Apple iPhone Duo,Apple,164.6
+Width_mm,Highest,2,vivo X Fold6,Vivo,145.7
+Width_mm,Highest,3,Oppo Find N6,Oppo,145.6
+Width_mm,Lowest,1,Apple iPhone 15 Pro,Apple,70.6
+Width_mm,Lowest,2,Apple iPhone 16 Pro,Apple,71.5
+Width_mm,Lowest,3,Apple iPhone 16e,Apple,71.5
+Thickness_mm,Highest,1,Realme Narzo Power,Realme,9.1
+Thickness_mm,Highest,2,Realme P4 Power,Realme,9.1
+Thickness_mm,Highest,3,Oppo K14 Lite,Oppo,9.0
+Thickness_mm,Lowest,1,Samsung Galaxy Z Fold8 Ultra,Samsung,4.1
+Thickness_mm,Lowest,2,Oppo Find N6,Oppo,4.2
+Thickness_mm,Lowest,3,vivo X Fold6,Vivo,4.4
+Display_inch,Highest,1,Oppo Find N6,Oppo,8.12
+Display_inch,Highest,2,vivo X Fold6,Vivo,8.02
+Display_inch,Highest,3,Samsung Galaxy Z Fold8 Ultra,Samsung,8.0
+Display_inch,Lowest,1,Apple iPhone 15,Apple,6.1
+Display_inch,Lowest,2,Apple iPhone 15 Pro,Apple,6.1
+Display_inch,Lowest,3,Apple iPhone 16,Apple,6.1
+ScreenToBody_pct,Highest,1,Xiaomi 18 Pro,Xiaomi,91.8
+ScreenToBody_pct,Highest,2,Oppo Find X10,Oppo,91.7
+ScreenToBody_pct,Highest,3,Xiaomi 18 Pro Max,Xiaomi,91.6
+ScreenToBody_pct,Lowest,1,Samsung Galaxy A07s,Samsung,83.6
+ScreenToBody_pct,Lowest,2,Samsung Galaxy A08 4G,Samsung,83.6
+ScreenToBody_pct,Lowest,3,Samsung Galaxy F07,Samsung,83.6
+Res_W,Highest,1,Samsung Galaxy Z Fold8,Samsung,2448.0
+Res_W,Highest,2,Xiaomi 18 Fold,Xiaomi,2364.0
+Res_W,Highest,3,vivo X Fold6,Vivo,2312.0
+Res_W,Lowest,1,Oppo A6c,Oppo,720.0
+Res_W,Lowest,2,Oppo A6k,Oppo,720.0
+Res_W,Lowest,3,Oppo A6s (India),Oppo,720.0
+Res_H,Highest,1,vivo iQOO Neo11 Ultra,Vivo,3200.0
+Res_H,Highest,2,Oppo Find X9 Ultra,Oppo,3168.0
+Res_H,Highest,3,vivo X500 Pro Max,Vivo,3168.0
+Res_H,Lowest,1,Oppo A6c,Oppo,1570.0
+Res_H,Lowest,2,Oppo A6k,Oppo,1570.0
+Res_H,Lowest,3,Oppo A6s (India),Oppo,1570.0
+PPI,Highest,1,Samsung Galaxy S26+,Samsung,516.0
+PPI,Highest,2,vivo iQOO Neo11 Ultra,Vivo,514.0
+PPI,Highest,3,Oppo Find X9 Ultra,Oppo,510.0
+PPI,Lowest,1,Realme 15x (India),Realme,254.0
+PPI,Lowest,2,Realme 16T,Realme,254.0
+PPI,Lowest,3,Realme 16x,Realme,254.0
+Refresh_Hz,Highest,1,Xiaomi Poco F9 Pro,Xiaomi,185.0
+Refresh_Hz,Highest,2,Xiaomi Poco F9 Ultra,Xiaomi,185.0
+Refresh_Hz,Highest,3,Xiaomi Redmi K100 Pro,Xiaomi,185.0
+Refresh_Hz,Lowest,1,Realme Narzo 80 Lite,Realme,90.0
+Refresh_Hz,Lowest,2,Realme Note 70,Realme,90.0
+Refresh_Hz,Lowest,3,Realme Note 70T,Realme,90.0
+Peak_nits,Highest,1,vivo iQOO 16,Vivo,10000.0
+Peak_nits,Highest,2,Xiaomi Redmi K90 Ultra,Xiaomi,9500.0
+Peak_nits,Highest,3,Realme GT 8 Pro,Realme,7000.0
+Peak_nits,Lowest,1,Realme Note 80,Realme,450.0
+Peak_nits,Lowest,2,Realme Narzo 80 Lite,Realme,563.0
+Peak_nits,Lowest,3,Realme P4 Lite 4G,Realme,563.0
+Chipset_nm,Highest,1,Oppo A6c,Oppo,12.0
+Chipset_nm,Highest,2,Oppo K14 Lite,Oppo,12.0
+Chipset_nm,Highest,3,Realme C100i,Realme,12.0
+Chipset_nm,Lowest,1,Apple iPhone 18 Pro,Apple,2.0
+Chipset_nm,Lowest,2,Apple iPhone 18 Pro Max,Apple,2.0
+Chipset_nm,Lowest,3,Apple iPhone Duo,Apple,2.0
+CPU_cores,Highest,1,Oppo A6c,Oppo,8.0
+CPU_cores,Highest,2,Oppo A6k,Oppo,8.0
+CPU_cores,Highest,3,Oppo A6s (India),Oppo,8.0
+CPU_cores,Lowest,1,Apple iPhone 15,Apple,6.0
+CPU_cores,Lowest,2,Apple iPhone 15 Plus,Apple,6.0
+CPU_cores,Lowest,3,Apple iPhone 15 Pro,Apple,6.0
+RAM_GB,Highest,1,Oppo Find N6,Oppo,16.0
+RAM_GB,Highest,2,Oppo Find X10,Oppo,16.0
+RAM_GB,Highest,3,Oppo Find X10 E,Oppo,16.0
+RAM_GB,Lowest,1,Xiaomi Poco C81x,Xiaomi,3.0
+RAM_GB,Lowest,2,Oppo A6c,Oppo,4.0
+RAM_GB,Lowest,3,Oppo K14 Lite,Oppo,4.0
+Storage_GB,Highest,1,Apple iPhone 17 Pro Max,Apple,2048.0
+Storage_GB,Highest,2,Apple iPhone 18 Pro,Apple,2048.0
+Storage_GB,Highest,3,Apple iPhone 18 Pro Max,Apple,2048.0
+Storage_GB,Lowest,1,Oppo K14 Lite,Oppo,64.0
+Storage_GB,Lowest,2,Samsung Galaxy F07,Samsung,64.0
+Storage_GB,Lowest,3,Samsung Galaxy F08,Samsung,64.0
+SD_slot,Highest,1,Oppo A6c,Oppo,1.0
+SD_slot,Highest,2,Oppo A6k,Oppo,1.0
+SD_slot,Highest,3,Oppo A6s (India),Oppo,1.0
+SD_slot,Lowest,1,Apple iPhone 15,Apple,0.0
+SD_slot,Lowest,2,Apple iPhone 15 Plus,Apple,0.0
+SD_slot,Lowest,3,Apple iPhone 15 Pro,Apple,0.0
+Battery_mAh,Highest,1,vivo Y600 Pro,Vivo,10200.0
+Battery_mAh,Highest,2,Realme Narzo Power,Realme,10001.0
+Battery_mAh,Highest,3,Realme P4 Power,Realme,10001.0
+Battery_mAh,Lowest,1,Apple iPhone Air,Apple,3149.0
+Battery_mAh,Lowest,2,Apple iPhone 15 Pro,Apple,3274.0
+Battery_mAh,Lowest,3,Apple iPhone 15,Apple,3349.0
+Charge_W,Highest,1,Realme GT 8 Pro,Realme,120.0
+Charge_W,Highest,2,Oppo Find X9 Ultra,Oppo,100.0
+Charge_W,Highest,3,Oppo K15 Pro+,Oppo,100.0
+Charge_W,Lowest,1,Apple iPhone 16e,Apple,5.0
+Charge_W,Lowest,2,Realme C100,Realme,5.0
+Charge_W,Lowest,3,Apple iPhone 15,Apple,15.0
+Wireless_W,Highest,1,Oppo Find N6,Oppo,50.0
+Wireless_W,Highest,2,Oppo Find X10,Oppo,50.0
+Wireless_W,Highest,3,Oppo Find X10 E,Oppo,50.0
+Wireless_W,Lowest,1,Apple iPhone Air,Apple,0.0
+Wireless_W,Lowest,2,Oppo A6c,Oppo,0.0
+Wireless_W,Lowest,3,Oppo A6k,Oppo,0.0
+MainCam_MP,Highest,1,Oppo Find N6,Oppo,200.0
+MainCam_MP,Highest,2,Oppo Find X10,Oppo,200.0
+MainCam_MP,Highest,3,Oppo Find X10 Pro Max,Oppo,200.0
+MainCam_MP,Lowest,1,Realme C100i,Realme,8.0
+MainCam_MP,Lowest,2,Realme C100i (India),Realme,8.0
+MainCam_MP,Lowest,3,Realme Note 80,Realme,8.0
+MainCam_lenses,Highest,1,Oppo Find X9 Ultra,Oppo,4.0
+MainCam_lenses,Highest,2,Samsung Galaxy S26 Ultra,Samsung,4.0
+MainCam_lenses,Highest,3,Apple iPhone 15 Pro,Apple,3.0
+MainCam_lenses,Lowest,1,Apple iPhone 16e,Apple,1.0
+MainCam_lenses,Lowest,2,Apple iPhone 17e,Apple,1.0
+MainCam_lenses,Lowest,3,Apple iPhone Air,Apple,1.0
+SelfieCam_MP,Highest,1,Oppo A6s Pro,Oppo,50.0
+SelfieCam_MP,Highest,2,Oppo A7 Pro Max,Oppo,50.0
+SelfieCam_MP,Highest,3,Oppo F33 Pro,Oppo,50.0
+SelfieCam_MP,Lowest,1,Oppo A6c,Oppo,5.0
+SelfieCam_MP,Lowest,2,Oppo A6s (India),Oppo,5.0
+SelfieCam_MP,Lowest,3,Oppo K14 Lite,Oppo,5.0
+NFC,Highest,1,Apple iPhone 15,Apple,1.0
+NFC,Highest,2,Apple iPhone 15 Plus,Apple,1.0
+NFC,Highest,3,Apple iPhone 15 Pro,Apple,1.0
+NFC,Lowest,1,Oppo A6c,Oppo,0.0
+NFC,Lowest,2,Oppo A6k,Oppo,0.0
+NFC,Lowest,3,Oppo A6s (India),Oppo,0.0
+Jack_3_5mm,Highest,1,Oppo A6c,Oppo,1.0
+Jack_3_5mm,Highest,2,Oppo A6k,Oppo,1.0
+Jack_3_5mm,Highest,3,Oppo A6s (India),Oppo,1.0
+Jack_3_5mm,Lowest,1,Apple iPhone 15,Apple,0.0
+Jack_3_5mm,Lowest,2,Apple iPhone 15 Plus,Apple,0.0
+Jack_3_5mm,Lowest,3,Apple iPhone 15 Pro,Apple,0.0
+IP_rating,Highest,1,Realme P4 Power,Realme,69.0
+IP_rating,Highest,2,Apple iPhone 15,Apple,68.0
+IP_rating,Highest,3,Apple iPhone 15 Plus,Apple,68.0
+IP_rating,Lowest,1,Realme C71,Realme,0.0
+IP_rating,Lowest,2,Realme P3 Lite 4G,Realme,0.0
+IP_rating,Lowest,3,Samsung Galaxy F36,Samsung,0.0
+Bluetooth_ver,Highest,1,Oppo Find X10,Oppo,6.2
+Bluetooth_ver,Highest,2,Oppo Find X10 E,Oppo,6.2
+Bluetooth_ver,Highest,3,Oppo Find X10 Pro Max,Oppo,6.2
+Bluetooth_ver,Lowest,1,vivo Y31t,Vivo,4.2
+Bluetooth_ver,Lowest,2,vivo Y500s,Vivo,4.2
+Bluetooth_ver,Lowest,3,vivo Y6,Vivo,4.2
+Price_EUR,Highest,1,Apple iPhone Duo,Apple,2300.0
+Price_EUR,Highest,2,vivo X Fold6,Vivo,2070.0
+Price_EUR,Highest,3,Samsung Galaxy Z Fold8 Ultra,Samsung,1829.0
+Price_EUR,Lowest,1,Xiaomi Poco C81x,Xiaomi,90.0
+Price_EUR,Lowest,2,Realme Note 70,Realme,100.0
+Price_EUR,Lowest,3,Realme Note 80,Realme,100.0

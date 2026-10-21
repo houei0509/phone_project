@@ -1,0 +1,161 @@
+﻿Name,Brand,Price_EUR,Price_VND,Pred_EUR_oof
+Apple iPhone 15,Apple,424.99,21990000.0,437.0
+Apple iPhone 15 Plus,Apple,474.18,,476.0
+Apple iPhone 15 Pro,Apple,569.0,,689.0
+Apple iPhone 15 Pro Max,Apple,692.61,,605.0
+Apple iPhone 16,Apple,578.99,22990000.0,645.0
+Apple iPhone 16 Plus,Apple,606.72,24790000.0,617.0
+Apple iPhone 16 Pro,Apple,694.37,23990000.0,868.0
+Apple iPhone 16 Pro Max,Apple,806.71,30990000.0,778.0
+Apple iPhone 16e,Apple,469.0,13690000.0,467.0
+Apple iPhone 17,Apple,829.0,26990000.0,642.0
+Apple iPhone 17 Pro,Apple,980.69,31990000.0,1027.0
+Apple iPhone 17 Pro Max,Apple,1080.46,34990000.0,1433.0
+Apple iPhone 17e,Apple,670.0,20990000.0,486.0
+Apple iPhone 18 Pro,Apple,1449.0,38690000.0,906.0
+Apple iPhone 18 Pro Max,Apple,1599.0,41990000.0,1219.0
+Apple iPhone Air,Apple,759.0,23390000.0,459.0
+Apple iPhone Duo,Apple,2300.0,,1405.0
+Oppo A6c,Oppo,130.0,4690000.0,149.0
+Oppo A6k,Oppo,280.0,,253.0
+Oppo A6s (India),Oppo,180.0,,173.0
+Oppo A6s Pro,Oppo,280.0,,373.0
+Oppo A6s Pro (China),Oppo,270.0,,304.0
+Oppo A7 Pro,Oppo,280.0,12990000.0,278.0
+Oppo A7 Pro Max,Oppo,600.0,,336.0
+Oppo F35,Oppo,360.0,,304.0
+Oppo F35 Pro,Oppo,430.0,,324.0
+Oppo Find N6,Oppo,1250.0,64990000.0,1579.0
+Oppo Find X10,Oppo,720.0,,886.0
+Oppo Find X10 E,Oppo,650.0,,785.0
+Oppo Find X10 Pro Max,Oppo,890.0,,802.0
+Oppo Find X9 Ultra,Oppo,1462.0,45990000.0,981.0
+Oppo Find X9s,Oppo,780.0,24990000.0,569.0
+Oppo Find X9s Pro,Oppo,750.0,,877.0
+Oppo K14,Oppo,170.0,,225.0
+Oppo K14 Lite,Oppo,150.0,,155.0
+Oppo K14 Plus,Oppo,280.0,,335.0
+Oppo K15,Oppo,300.0,,438.0
+Oppo K15 Pro,Oppo,400.0,,383.0
+Oppo K15 Pro+,Oppo,460.0,,409.0
+Oppo K15s,Oppo,270.0,,290.0
+Oppo K15x,Oppo,230.0,,169.0
+Oppo Reno15c (India),Oppo,330.0,,355.0
+Oppo Reno16,Oppo,659.0,,602.0
+Oppo Reno16 (China),Oppo,440.0,,579.0
+Oppo Reno16 F,Oppo,550.0,14990000.0,382.0
+Oppo Reno16 FS,Oppo,650.0,,434.0
+Oppo Reno16 Pro,Oppo,899.0,,584.0
+Oppo Reno16 Pro (China),Oppo,570.0,,730.0
+Realme 15,Realme,300.0,,254.0
+Realme 15 (India),Realme,260.0,,326.0
+Realme 15 Lite,Realme,170.0,,262.0
+Realme 15T,Realme,210.0,,263.0
+Realme 16,Realme,319.99,,228.0
+Realme 16 Pro,Realme,327.75,,353.0
+Realme 16 Pro+,Realme,459.99,,349.0
+Realme 16x,Realme,240.0,,187.0
+Realme C100,Realme,200.0,,159.0
+Realme C100 4G,Realme,250.0,,220.0
+Realme C100i,Realme,110.0,,117.0
+Realme C100i (India),Realme,140.0,,143.0
+Realme C100x,Realme,229.99,,184.0
+Realme C71,Realme,159.99,,140.0
+Realme C73,Realme,110.0,,144.0
+Realme C83,Realme,130.0,,127.0
+Realme C85 4G,Realme,170.0,,240.0
+Realme GT 8 Pro,Realme,859.99,,717.0
+Realme GT8 (China),Realme,350.0,,471.0
+Realme Narzo 100 Lite,Realme,120.0,,131.0
+Realme Narzo 90,Realme,160.0,,249.0
+Realme Neo8,Realme,280.0,,434.0
+Realme Note 70,Realme,100.0,,149.0
+Realme Note 70T,Realme,179.99,,117.0
+Realme Note 80,Realme,100.0,,160.0
+Realme P3 Lite 4G,Realme,140.0,,138.0
+Realme P4 Lite 4G,Realme,204.54,,113.0
+Realme P4 Pro,Realme,250.0,,315.0
+Realme P4s,Realme,320.0,,291.0
+Realme P4s Lite,Realme,150.0,,148.0
+Samsung Galaxy A07s,Samsung,140.0,,142.0
+Samsung Galaxy A08 4G,Samsung,150.0,4590000.0,167.0
+Samsung Galaxy A17,Samsung,193.89,5790000.0,208.0
+Samsung Galaxy A17 4G,Samsung,185.0,5790000.0,210.0
+Samsung Galaxy A18 4G,Samsung,219.0,6990000.0,240.0
+Samsung Galaxy A27,Samsung,232.0,7990000.0,221.0
+Samsung Galaxy A37,Samsung,283.0,9600000.0,266.0
+Samsung Galaxy A57,Samsung,352.0,10710000.0,370.0
+Samsung Galaxy F08,Samsung,160.0,,154.0
+Samsung Galaxy F70,Samsung,190.0,,204.0
+Samsung Galaxy M08,Samsung,160.0,,140.0
+Samsung Galaxy S25 FE,Samsung,516.0,13590000.0,446.0
+Samsung Galaxy S26,Samsung,714.0,22090000.0,814.0
+Samsung Galaxy S26 FE,Samsung,565.0,16490000.0,571.0
+Samsung Galaxy S26 Ultra,Samsung,946.9,28940000.0,913.0
+Samsung Galaxy S26+,Samsung,929.0,23790000.0,790.0
+Samsung Galaxy Z Flip8,Samsung,919.0,27790000.0,434.0
+Samsung Galaxy Z Fold8,Samsung,1406.0,40490000.0,1531.0
+Samsung Galaxy Z Fold8 Ultra,Samsung,1829.0,48990000.0,1461.0
+Xiaomi 17 Max,Xiaomi,610.0,,687.0
+Xiaomi 17T,Xiaomi,519.0,17790000.0,505.0
+Xiaomi 17T Pro,Xiaomi,715.0,22490000.0,714.0
+Xiaomi 18 Fold,Xiaomi,1400.0,,1419.0
+Xiaomi 18 Pro,Xiaomi,790.0,,739.0
+Xiaomi 18 Pro Max,Xiaomi,920.0,,743.0
+Xiaomi Poco C81,Xiaomi,100.0,,114.0
+Xiaomi Poco C81 Pro,Xiaomi,120.0,,139.0
+Xiaomi Poco C81x,Xiaomi,90.0,,109.0
+Xiaomi Poco C95 Pro,Xiaomi,209.9,,204.0
+Xiaomi Poco F9 Pro,Xiaomi,689.9,,996.0
+Xiaomi Poco F9 Ultra,Xiaomi,819.9,23990000.0,597.0
+Xiaomi Poco M8x,Xiaomi,190.0,,195.0
+Xiaomi Poco X8,Xiaomi,313.25,,325.0
+Xiaomi Poco X8 Power,Xiaomi,330.0,,343.0
+Xiaomi Redmi 17,Xiaomi,228.49,5990000.0,209.0
+Xiaomi Redmi 17 4G,Xiaomi,184.99,5990000.0,215.0
+Xiaomi Redmi 17C,Xiaomi,199.0,,155.0
+Xiaomi Redmi 17C 4G,Xiaomi,100.0,,117.0
+Xiaomi Redmi K100 Pro,Xiaomi,480.0,,858.0
+Xiaomi Redmi K100 Pro Max,Xiaomi,540.0,,826.0
+Xiaomi Redmi K90 Max,Xiaomi,440.0,,419.0
+Xiaomi Redmi K90 Ultra,Xiaomi,390.0,,375.0
+Xiaomi Redmi M100,Xiaomi,230.0,,172.0
+Xiaomi Redmi Note 17,Xiaomi,249.99,6490000.0,272.0
+Xiaomi Redmi Note 17 (India/China),Xiaomi,260.0,,229.0
+Xiaomi Redmi Note 17 4G,Xiaomi,238.88,6490000.0,227.0
+Xiaomi Redmi Note 17 Pro,Xiaomi,379.9,10190000.0,364.0
+Xiaomi Redmi Note 17 Pro (China),Xiaomi,210.0,,335.0
+Xiaomi Redmi Note 17 Pro Max,Xiaomi,489.0,16190000.0,336.0
+vivo S2 FE,Vivo,360.0,,269.0
+vivo S60,Vivo,560.0,,522.0
+vivo S60e,Vivo,370.0,,555.0
+vivo T5,Vivo,290.0,,309.0
+vivo T5 4G,Vivo,290.0,,230.0
+vivo T5e,Vivo,130.0,,112.0
+vivo V70 Lite,Vivo,260.0,,318.0
+vivo V80,Vivo,580.0,,497.0
+vivo V80 Lite,Vivo,300.0,,299.0
+vivo V80 Lite (IN/PK),Vivo,390.0,,300.0
+vivo X Fold6,Vivo,2070.0,,1362.0
+vivo X300 E,Vivo,620.0,,633.0
+vivo X500,Vivo,720.0,,987.0
+vivo X500 Pro,Vivo,850.0,,874.0
+vivo X500 Pro Max,Vivo,910.0,,871.0
+vivo Y05e,Vivo,120.0,,123.0
+vivo Y11d,Vivo,100.0,,151.0
+vivo Y31t,Vivo,230.0,,215.0
+vivo Y32,Vivo,230.0,,230.0
+vivo Y500,Vivo,320.0,,294.0
+vivo Y500s,Vivo,230.0,,280.0
+vivo Y6,Vivo,230.0,,227.0
+vivo Y600 Pro,Vivo,250.0,,359.0
+vivo Y600 Turbo,Vivo,290.0,,245.0
+vivo Y600i,Vivo,260.0,,227.0
+vivo iQOO 15T,Vivo,480.0,,489.0
+vivo iQOO 16,Vivo,790.0,,697.0
+vivo iQOO Neo11 Ultra,Vivo,430.0,,434.0
+vivo iQOO Z11,Vivo,370.0,,336.0
+vivo iQOO Z11 (India),Vivo,310.0,,320.0
+vivo iQOO Z11 Lite 44W,Vivo,180.0,,155.0
+vivo iQOO Z11S,Vivo,230.0,,359.0
+vivo iQOO Z11i,Vivo,160.0,,153.0
